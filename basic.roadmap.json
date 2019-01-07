@@ -1,0 +1,205 @@
+{
+    "roadmap": [
+        {
+            "name": "OOP",
+            "sources": [{
+                    "type": "videos",
+                    "links": ["https://www.youtube.com/watch?v=rZcTaRU7AAw", "https://www.youtube.com/watch?v=zqxVI_kEdq8"]
+                },
+                {
+                    "type": "playlists",
+                    "links": ["https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu"]
+                },
+                {
+                    "type": "wiki",
+                    "links": ["https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5"]
+                }
+            ]
+        },
+        {
+            "name": "Git",
+            "sources": [{
+                    "type": "videos",
+                    "links": ["https://www.youtube.com/watch?v=SWYqp7iY_Tc"]
+                },
+                {
+                    "type": "playlists",
+                    "links": ["https://www.youtube.com/watch?v=PEKN8NtBDQ0&list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb"]
+                },
+                {
+                    "type": "sites",
+                    "links": ["https://githowto.com/ru", "https://git-scm.com/book/ru/v1/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git"]
+                }
+            ]
+        },
+        {
+            "name": "Terminal",
+            "sources": [{
+                    "type": "videos",
+                    "links": ["https://www.youtube.com/watch?v=jbvqCqb-HJk", "https://www.youtube.com/watch?v=Jm8-UFf8IMg"]
+                },
+                {
+                    "type": "playlists",
+                    "links": ["https://www.youtube.com/watch?v=IGmfU6QU5dI&list=PLLYGEjteom1GaBzY_DEqlKfKG46FTOjAv"]
+                },
+                {
+                    "type": "sites",
+                    "links": ["http://linuxcommand.org/", "https://help.ubuntu.com/community/UsingTheTerminal", "https://github.com/robbyrussell/oh-my-zsh"]
+                }
+            ]
+        },
+        {
+            "name": "Data Structures & Algorithms",
+            "sources": [{
+                    "type": "videos",
+                    "links": ["https://www.youtube.com/watch?v=92S4zgXN17o"]
+                },
+                {
+                    "type": "playlists",
+                    "links": ["https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H", "https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&feature=view_all", "https://www.youtube.com/watch?v=zgCnMvvw6Oo&list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk", "https://www.youtube.com/watch?v=sWx8-j3a8RA&list=PL055Epbe6d5ZASsS-3ZhEWZJAqeIwe-If"]
+                },
+                {
+                    "type": "sites",
+                    "links": ["https://www.coursera.org/lecture/data-structures/arrays-OsBSF"]
+                },
+                {
+                    "type": "wiki",
+                    "links": ["https://en.wikipedia.org/wiki/Data_structure", "https://en.wikipedia.org/wiki/List_of_data_structures"]
+                }
+            ]
+        },
+        {
+            "name": "SOLID, KISS, YAGNI",
+            "sources": [{
+                    "type": "videos",
+                    "links": ["https://www.youtube.com/watch?v=9kNA9u7JYPc", "https://www.youtube.com/watch?v=YkurTbXjvrY", "https://www.youtube.com/watch?v=0qP6Vh8GNM0", "https://www.youtube.com/watch?v=DN5MM7kg1TU"]
+                },
+                {
+                    "type": "wiki",
+                    "links": ["https://ru.wikipedia.org/wiki/SOLID_(%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)", "https://ru.wikipedia.org/wiki/YAGNI", "https://ru.wikipedia.org/wiki/KISS_(%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF)"]
+                }
+            ]
+        },
+        {
+            "name": "GitHub",
+            "sources": [{
+                    "type": "videos",
+                    "links": ["https://www.youtube.com/watch?v=0fKg7e37bQE", "https://www.youtube.com/watch?v=E8TXME3bzNs"]
+                },
+                {
+                    "type": "links",
+                    "links": ["https://github.com/", "https://habr.com/post/125799/"]
+                },
+                {
+                    "type": "wiki",
+                    "links": ["https://ru.wikipedia.org/wiki/GitHub"]
+                }
+            ]
+        },
+        {
+            "name": "Licenses",
+            "sources": [{
+                    "type": "videos",
+                    "links": ["https://www.youtube.com/watch?v=EPjDSpBPkEg", "https://www.youtube.com/watch?time_continue=181&v=An8SDY4zBH0"]
+                },
+                {
+                    "type": "links",
+                    "links": ["https://help.github.com/articles/licensing-a-repository/"]
+                },
+                {
+                    "type": "wiki",
+                    "links": ["https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F_%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F"]
+                }
+            ]
+        },
+        {
+            "name": "Semantic Versioning",
+            "sources": [
+                {
+                    "type": "links",
+                    "links": ["https://semver.org/lang/ru/"]
+                },
+                {
+                    "type": "wiki",
+                    "links": ["https://ru.wikipedia.org/wiki/%D0%9D%D1%83%D0%BC%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F"]
+                }
+            ]
+        },
+        {
+            "name": "SSH",
+            "sources": [
+                {
+                    "type": "videos",
+                    "links": ["https://www.youtube.com/watch?v=sbVYRf_6Hvg", "https://vimeo.com/54505525"]
+                },
+                {
+                    "type": "links",
+                    "links": ["https://habr.com/post/331348/"]
+                },
+                {
+                    "type": "wiki",
+                    "links": ["https://ru.wikipedia.org/wiki/SSH"]
+                }
+            ]
+        },
+        {
+            "name": "HTTP / HTTPS and APIs",
+            "sources": [
+                {
+                    "type": "videos",
+                    "links": ["https://www.youtube.com/watch?v=-jR7mGCNXBo", "https://www.youtube.com/watch?v=a3rHybferfU", "https://www.youtube.com/watch?v=7YcW25PHnAA"]
+                },
+                {
+                    "type": "playlists",
+                    "links": ["https://www.youtube.com/watch?v=OLFA0soYGhw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1"]
+                },
+                {
+                    "type": "links",
+                    "links": ["https://habr.com/post/265845/"]
+                },
+                {
+                    "type": "wiki",
+                    "links": ["https://ru.wikipedia.org/wiki/HTTPS", "https://ru.wikipedia.org/wiki/HTTP", "https://ru.wikipedia.org/wiki/REST"]
+                }
+            ]
+        },
+        {
+            "name": "Design Patterns",
+            "sources": [
+                {
+                    "type": "videos",
+                    "links": ["https://www.youtube.com/watch?v=WV2Ed1QTst8"]
+                },
+                {
+                    "type": "playlists",
+                    "links": ["https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07", "https://www.youtube.com/watch?v=qo7Hqwypwcc&list=PLtjuvkyFrt5Wjd-973N117XS7xuuoD6XM", "https://www.youtube.com/watch?v=GjtfXIaQq7g"]
+                },
+                {
+                    "type": "links",
+                    "links": ["https://habr.com/post/210288/", "https://www.slideshare.net/custisppt/ss-24614208"]
+                },
+                {
+                    "type": "books",
+                    "links": ["https://www.ozon.ru/context/detail/id/20216992/"]
+                },
+                {
+                    "type": "wiki",
+                    "links": ["https://ru.wikipedia.org/wiki/Design_Patterns", "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F"]
+                }
+            ]
+        },
+        {
+            "name": "Character Encoding",
+            "sources": [
+                {
+                    "type": "videos",
+                    "links": ["https://www.youtube.com/watch?v=DGhDcap9lrw", "https://www.youtube.com/watch?v=YtFM-smD9fQ"]
+                },
+                {
+                    "type": "wiki",
+                    "links": ["https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2"]
+                }
+            ]
+        }
+    ]
+}

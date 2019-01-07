@@ -1,0 +1,133 @@
+{
+    "roadmap": [
+        {
+            "name": "Front-end",
+            "sources": [
+                {
+                    "type": "videos",
+                    "links": []
+                },
+                {
+                    "type": "books",
+                    "links": []
+                },
+                {
+                    "type": "playlists",
+                    "links": []
+                },
+                {
+                    "type": "links",
+                    "links": []
+                },
+                {
+                    "type": "wiki",
+                    "links": []
+                }
+            ],
+            "children": [
+                {
+                    "name": "HTML",
+                    "sources": [
+                        {
+                            "type": "videos",
+                            "links": []
+                        },
+                        {
+                            "type": "books",
+                            "links": []
+                        },
+                        {
+                            "type": "playlists",
+                            "links": []
+                        },
+                        {
+                            "type": "links",
+                            "links": []
+                        },
+                        {
+                            "type": "wiki",
+                            "links": []
+                        }
+                    ]
+                },
+                {
+                    "name": "CSS",
+                    "sources": [
+                        {
+                            "type": "videos",
+                            "links": []
+                        },
+                        {
+                            "type": "books",
+                            "links": []
+                        },
+                        {
+                            "type": "playlists",
+                            "links": []
+                        },
+                        {
+                            "type": "links",
+                            "links": []
+                        },
+                        {
+                            "type": "wiki",
+                            "links": []
+                        }
+                    ]
+                },
+                {
+                    "name": "JS",
+                    "sources": [
+                        {
+                            "type": "videos",
+                            "links": []
+                        },
+                        {
+                            "type": "books",
+                            "links": []
+                        },
+                        {
+                            "type": "playlists",
+                            "links": []
+                        },
+                        {
+                            "type": "links",
+                            "links": []
+                        },
+                        {
+                            "type": "wiki",
+                            "links": []
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "Packange Managers",
+                            "sources": [
+                                {
+                                    "type": "videos",
+                                    "links": []
+                                },
+                                {
+                                    "type": "books",
+                                    "links": []
+                                },
+                                {
+                                    "type": "playlists",
+                                    "links": []
+                                },
+                                {
+                                    "type": "links",
+                                    "links": []
+                                },
+                                {
+                                    "type": "wiki",
+                                    "links": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
